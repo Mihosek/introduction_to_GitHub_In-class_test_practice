@@ -7,3 +7,7 @@ $ git init
 - [x] List syntax is required
 - [x] This item is complete
 - [ ] Practice complete
+
+- [ ] Finish practice
+- [x] Check the overall changes
+- [ ] Merge pull request
